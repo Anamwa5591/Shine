@@ -53,9 +53,9 @@ src/
 ## 🧠 State Logic
 The application leverages Redux Toolkit's `createSlice` to handle complex logic:
 
-• `addItem:` Checks if the item exists; if so, increments quantity; if not, pushes new item.
-• `removeItem:` Filters the state to remove specific product IDs.
-• `calculateTotals:` A reducer that iterates through the cart to update the total price and badge count.
+- `addItem:` Checks if the item exists; if so, increments quantity; if not, pushes new item.
+- `removeItem:` Filters the state to remove specific product IDs.
+- `calculateTotals:` A reducer that iterates through the cart to update the total price and badge count.
 
 ## 🤝 Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
